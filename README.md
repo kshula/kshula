@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 I'm Kampamba Shula, a Mathematician, ML Engineer, and Data Analyst with a passion for unlocking the potential of AI. 📊🤖 Let's explore the endless possibilities together. 🌟
 
