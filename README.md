@@ -32,6 +32,6 @@ Let's connect and exchange ideas! You can reach me through:
 
 ## ⚡ Fun Fact
 
-Did you know that [I love enegineering]? When I'm not exploring the depths of data, you can find me [trying out mechatronic and electrical engineering]. Let's share some insights and explore the exciting landscape of AI together!
+Did you know that I love enegineering? When I'm not exploring the depths of data, you can find me trying out mechatronic and electrical engineering. Let's share some insights and explore the exciting landscape of AI together!
 
 Thanks for stopping by! Looking forward to connecting with fellow AI enthusiasts and anyone passionate about unlocking the power of Data.
