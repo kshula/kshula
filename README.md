@@ -26,7 +26,7 @@ Whether it's discussing advanced mathematical concepts, optimizing machine learn
 
 Let's connect and exchange ideas! You can reach me through:
 
-- Email: [kampambashula@gmai.com]
+- Email: [kampambashula@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/kampamba-shula-03946633/]
 - Twitter: [https://twitter.com/Kampamba_Shula]
 
