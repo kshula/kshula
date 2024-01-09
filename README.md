@@ -1,5 +1,5 @@
 ### Hey there 👋
-I'm Kampamba Shula, a Mathematician,Economist,  ML Engineer and Data Analyst with a passion for unlocking the potential of AI. 
+I'm a passionate Mathematician,Economist,  ML Engineer and Data Analyst with a passion for unlocking the potential of AI. I'm intrigued by software architecture.
 ## 🔭 Currently Working On
 I'm currently immersed in AI and blockchain, leveraging my skills in mathematics and machine learning to create predictive models,data pipelines,indexes and much more. It's an exciting journey, and I'm learning a lot along the way.
 
