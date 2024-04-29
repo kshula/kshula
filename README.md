@@ -18,8 +18,6 @@ I'm open to collaborating on various projects that involve the intersection of m
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kshula&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📫 How to Reach Me
 Let's connect and exchange ideas! You can reach me through:
